@@ -7,4 +7,5 @@ int main()
     cin >> x;
     for (int i = 0; i < x; i++)
         cout << i << " ";
+    cout << "This is just an example nothing to see here shoo" << endl;
 }
